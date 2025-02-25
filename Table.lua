@@ -38,8 +38,6 @@ local RandomAccessory = {
 	114043117970114,
 	18621138183,
 	16783674120,
-}
-local RandomAccessory2 = {
 	104838352558679,
 	116142501614990,
 	18326605629,
@@ -51,4 +49,4 @@ local HairTable = {
 }
 
 
-return ShirtsTable, PantsTable, HatsTable, RandomAccessory, RandomAccessory2, HairTable
+return ShirtsTable, PantsTable, HatsTable, RandomAccessory, HairTable
