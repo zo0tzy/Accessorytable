@@ -38,15 +38,20 @@ local RandomAccessory = {
 	114043117970114,
 	18621138183,
 	16783674120,
-	104838352558679,
+                104838352558679,
 	116142501614990,
 	18326605629,
 }
+
 local HairTable = {
 	139952763739095,
 	15664182382,
 	18490691955,
 }
 
+local FaceTable = {
+            1
+}
 
-return ShirtsTable, PantsTable, HatsTable, RandomAccessory, HairTable
+
+return ShirtsTable, PantsTable, HatsTable, RandomAccessory, HairTable, FaceTable
